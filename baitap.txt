@@ -1,0 +1,27 @@
+1. cho số nguyên dương n, in ra các số nguyên tố nhỏ hơn n.
+2. Tính S(n) = 1^2 + 2^2 + 3^2 + ... + (n-1)^2 + n^2
+3. Tìm bội chung của nhỏ nhất của 2 số. 
+4. Tìm bội chung nhỏ nhất của một mảng các số nguyên dương. VD: [2,6, 7, 5] 
+5. Tìm ước chung lớn nhất của 2 số
+6. Tìm ước chung lớn nhất của một mảng các số nguyên dương. VD: [100, 40, 25] 
+7. Nhập vào số n in ra tam hình tam giác. VD nhập vào n = 4 in ra
+*
+**
+***
+****
+8. Cho mảng [
+	['name', => 'PHP', 'level' => 1, 'position' => 2],
+	['name', => 'Java', 'level' => 1, 'position' => 1],
+	['name', => 'Python', 'level' => 1, 'position' => 4],
+	['name', => 'PHP 5.6', 'level' => 2, 'position' => 1],
+	['name', => 'PHP 7', 'level' => 2, 'position' => 2],
+	...
+];
+
+Viết chương trình hiển thị ra:
+	Java
+	PHP
+	|--PHP 5.6
+	|--PHP 7
+	Python
+	
